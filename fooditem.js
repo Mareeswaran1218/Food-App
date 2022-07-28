@@ -31,7 +31,7 @@ document.getElementById("fast").style.display="block";
 function mycurry(){
 document.getElementById("curry").style.display="block";
 }
-function myvegterien(){
+function myvegeterien(){
 document.getElementById("vegeterien").style.display="block";
 }
 function mypizza(){
