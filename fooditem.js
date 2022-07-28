@@ -32,7 +32,7 @@ function mycurry(){
 document.getElementById("curry").style.display="block";
 }
 function myvegterien(){
-document.getElementById("vegterien").style.display="block";
+document.getElementById("vegeterien").style.display="block";
 }
 function mypizza(){
 document.getElementById("pizza").style.display="block";
