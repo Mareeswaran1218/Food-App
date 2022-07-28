@@ -23,7 +23,7 @@ document.querySelector("#co1").classList.toggle("active");
 
 }
 function myjuices(){
-document.getElementById("jui").style.display="block";
+document.getElementById("juices").style.display="block";
 }
 function myfastfood(){
 document.getElementById('fast').style.display="block";
