@@ -26,7 +26,7 @@ function myjuices(){
 document.getElementById("juices").style.display="block";
 }
 function myfastfood(){
-document.getElementById('fast').style.display="block";
+document.getElementById("fast").style.display="block";
 }
 function mycurry(){
 document.getElementById("curry").style.display="block";
